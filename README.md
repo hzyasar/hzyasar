@@ -1,16 +1,37 @@
-## Hi there 👋
+<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
 
-<!--
-**hzyasar/hzyasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Discord Bilgisi ve Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=%F0%9F%93%A9+Destek+Ve+%F0%9F%93%9E+Sorularınız+İçin;+Discord:+woxfox." alt="woxfox."/>
+</p>
 
-Here are some ideas to get you started:
+<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00f5ff&background=69FF2000&center=true&vCenter=true&repeat=true&width=435&lines=Sosyal+Medya+Hesaplarım" alt="Typing SVG" /></h2>
+
+<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
+
+<!-- Sosyal Medya İkonları -->
+<h2 align="center">
+
+ <a href="https://discord.com/users/1113608653178679446" target="_blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> 
+ <a href="https://github.com/hzyasar" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/31hgoe2aofs6v4ur3z63h3h77leu?si=yoCb9bM2STCpVei7mumgMw" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/hz.yasar2" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+</p>
+
+<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
+
+<!-- Dil ve Uygulamalar -->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&pause=1000&color=ca1818&background=69FF2000&center=true&vCenter=true&repeat=true&width=435&lines=Dil+ve+Uygulamalar"/> </p>
+
+<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
+
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=js,lua,html,css,nodejs,mysql,mongo&theme=dark" />
+</p>
+
+<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
+
+<!-- Discord Hesabı -->
